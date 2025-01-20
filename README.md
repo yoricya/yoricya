@@ -11,4 +11,4 @@
   <img style="width: 80%" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31425tbc5eylyki3k5ckehawhcqq" alt="Data Card for Spotify">
 </a>
 
-### Я... добряк ведь <img style="width: 16px" src="https://s.yoricya.ru/pwgood3"/>?
+### Я... добряк ведь <img style="width: 20px" src="https://s.yoricya.ru/pwgood3"/>?
